@@ -16,7 +16,7 @@
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <access origin="*" />
-    <content src="index.html" />
+    <content src="/www/index.html" />
      <platform name="windows">
     </platform>
     <platform name="ios">
